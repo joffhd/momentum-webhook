@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "stripe": "^12.0.0",
-    "@memberstack/node": "^1.1.1"
+    "@memberstack/admin": "^1.3.1"
   }
 }
