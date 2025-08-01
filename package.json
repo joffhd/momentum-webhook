@@ -1,4 +1,8 @@
 {
   "name": "momentum-webhook",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "stripe": "^11.15.0",
+    "@memberstack/node": "^1.1.1"
+  }
 }
